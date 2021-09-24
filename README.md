@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @veggieburgers
-- 👀 I’m interested in python, computers in general
+- 👀 I’m interested in all things computer
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me jcsjohansen@gmail.com

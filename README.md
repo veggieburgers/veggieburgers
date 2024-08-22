@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @veggieburgers
-- 👀 I’m interested in everything computer
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on anything
-- 📫 How to reach me jcsjohansen@gmail.com
+- 👀 I’m interested in computer
+- 🌱 I’m not currently learning
+- 📫 How to reach me
 
 <!---
 veggieburgers/veggieburgers is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
